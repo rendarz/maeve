@@ -12,4 +12,5 @@ description = "Blazingly fast parallel keystore"
 maintenance = { status = "actively-developed" }
 
 [dependencies]
+thiserror = "1.0.44"
 
