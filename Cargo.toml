@@ -1,0 +1,12 @@
+[package]
+name = "maeve"
+version = "0.1.0"
+edition = "2021"
+authors = ["Marco A. Pagliaricci <mark@spinloops.com>"]
+license-file = "LICENSE"
+description = "Blazingly fast parallel keystore"
+keywords = ["keystore", "keyvalue", "cache", "key", "value", "datastructure", "datastructures", "search"]
+categories = ["command-line-utilities", "database", "database-implementations", "data-structures"]
+
+[dependencies]
+
